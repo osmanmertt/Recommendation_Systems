@@ -5,7 +5,8 @@ For example, with this method, we can determine that those who buy X product als
 
 To summarize, past data is analyzed with association rule learning and associations between them are found so that future strategies can be developed.
 
-![image.png](attachment:da87265e-4fb9-469f-ae4e-301db76f9ed1.png)
+![1](https://user-images.githubusercontent.com/78654212/208477755-d30dcee1-88ff-4f98-9ed8-18d1cb2873a1.PNG)
+
 
 Various algorithms are used for Association Rule Learning. The most popular algorithm among these is the **Apriori Algorithm**. Apriori algorithm has some parameters. These parameters are listed below.
 
@@ -36,7 +37,7 @@ For example, let's examine the situation of those who buy the cake product, also
   
 -The lift value is 1.11. The sales of the Coffe product increase 1.11 times in the purchases with the Cake product.
 
-![image.png](attachment:05517e5e-f970-4c4a-ab58-8f6c151f28cf.png)
+![2](https://user-images.githubusercontent.com/78654212/208477819-5c9763e0-67ef-4223-8970-e74aca67ba97.PNG)
 
 # Business Problem and Dataset
 In this study, the dataset of an online service platform will be used. This platform brings together those who provide service and those who want to receive service. A recommendation system will be created with Association Rule Learning.
